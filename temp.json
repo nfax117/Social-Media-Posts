@@ -1,0 +1,24 @@
+{
+    "created_time" : "",
+    "from" : {
+       "avatar_name" : "",
+       "vsID" : ""
+    },
+    "id" : "",
+    "is_published" : true,
+    "keys" : {
+       "count" : 1,
+       "data" : [""]
+    },
+    "message" : "",
+    "to" : {
+       "count" : 1,
+       "data" : [
+          {
+             "avatar_name" : "",
+             "vsID" : ""
+          }
+       ]
+    }
+ }
+ 
